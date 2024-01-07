@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,100;0,300;0,400;0,500;0,700;1,200&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    outline: none;
+    font-family: 'Chivo', sans-serif;
+    font-weight: 400;
+}
+/* 1 rem = 16px */
+/* turn 1 rem to 10 pixels by changing size to 62.5% */
+html{
+    font-size: 62.5%;
+    
+}
