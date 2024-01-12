@@ -15,4 +15,4 @@ setInterval(() => {
     // add next item to show up
     icon.nextElementSibling.classList.add("change");
   }
-}, 2500);
+}, 2000);
